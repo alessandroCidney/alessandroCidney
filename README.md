@@ -1,5 +1,3 @@
-<img src="https://pixabay.com/get/g1f1925ebb69917a743ebeb3788fce3bdfb4653693a7abfaa47b263dcb48cda55c7d7aecf961e1df8af024f45498a0356_640.jpg">
-
 ### Olá! Me chamo Alessandro :v:
 Sou programador e, enquanto procuro obter graduação na área, uso o GitHub para postar meus projetos!
 - :books: Gosto de estudar, e frequentemente me vejo buscando aprender novas linguagens de programação.
