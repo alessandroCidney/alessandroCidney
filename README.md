@@ -4,7 +4,9 @@ Sou programador e, enquanto procuro obter graduação na área, uso o GitHub par
 - :computer: Me interesso por tecnologia, e busco me manter atualizado sobre assuntos relacionados. 
 - :earth_americas: Espero poder colaborar para o desenvolvimento da grande comunidade do GitHub e de diversos projetos contidos na plataforma.
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=alessandroCidney)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandroCidney)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroCidney)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Minhas redes sociais :iphone:
 
