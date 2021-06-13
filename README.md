@@ -1,5 +1,5 @@
 ### Olá! Me chamo Alessandro :v:
-Sou programador e, enquanto procuro obter graduação na área, uso o GitHub para postar meus projetos!
+Sou programador e, enquanto realizo graduação na área, uso o GitHub para postar meus projetos!
 - :books: Gosto de estudar, e frequentemente me vejo buscando aprender novas linguagens de programação.
 - :computer: Me interesso por tecnologia, e busco me manter atualizado sobre assuntos relacionados. 
 - :earth_americas: Espero poder colaborar para o desenvolvimento da grande comunidade do GitHub e de diversos projetos contidos na plataforma.
