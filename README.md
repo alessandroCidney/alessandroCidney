@@ -1,4 +1,4 @@
-<img src="https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
+<img src="https://cdn.pixabay.com/photo/2015/05/15/14/41/night-768636_960_720.jpg" />
 
 ### Olá! Me chamo Alessandro :v:
 Sou programador e, enquanto realizo graduação na área, uso o GitHub para postar meus projetos!
