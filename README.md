@@ -4,10 +4,8 @@ Sou programador e, enquanto realizo graduação na área, uso o GitHub para post
 - :computer: Me interesso por tecnologia, e busco me manter atualizado sobre assuntos relacionados. 
 - :earth_americas: Espero poder colaborar para o desenvolvimento da grande comunidade do GitHub e de diversos projetos contidos na plataforma.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandroCidney)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroCidney)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/alessandroCidney"><img src="https://github-readme-stats.vercel.app/api?username=alessandroCidney&count_private=true" height="210" /></a> <a href="https://github.com/alessandroCidney"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroCidney&langs_count=8&hide=html,css&layout=compact" height="210" /></a>
 
 #### Minhas redes sociais :iphone:
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/a_cidn)[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/acidn/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/a_cidn/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/a_cidn) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/acidn/)  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/a_cidn/)
