@@ -1,3 +1,5 @@
+<img src="https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
+
 ### Olá! Me chamo Alessandro :v:
 Sou programador e, enquanto realizo graduação na área, uso o GitHub para postar meus projetos!
 - :books: Gosto de estudar, e frequentemente me vejo buscando aprender novas linguagens de programação.
