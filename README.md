@@ -2,7 +2,7 @@
 
 # Bem vindo ao meu perfil! :boy: :computer:
 Me chamo Alessandro Cídney. Sou programador e uso o GitHub para postar meus projetos!
-- :books: Gosto de estudar e, frequentemente, me vejo buscando aprender novas linguagens de programação.
+- :books: Gosto de estudar e, frequentemente, me vejo buscando aprender mais sobre novas tecnologias e linguagens de programação.
 - :computer: Me interesso por tecnologia, e busco me manter atualizado sobre assuntos relacionados. 
 - :earth_americas: Espero poder colaborar para o desenvolvimento da grande comunidade do GitHub e de diversos projetos contidos na plataforma.
 
