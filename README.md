@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2017/02/26/09/45/starry-sky-2099828_960_720.jpg" />
+<img src="https://github.com/alessandroCidney/alessandroCidney/blob/main/Fundo%20README.md.gif" />
 
 # Bem vindo ao meu perfil! :boy: :computer:
 Me chamo Alessandro Cídney. Sou programador e uso o GitHub para postar meus projetos!
