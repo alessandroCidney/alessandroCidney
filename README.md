@@ -2,7 +2,7 @@
 
 <img src="https://github.com/alessandroCidney/alessandroCidney/blob/main/Fundo%20README.md.gif" />
                                                                                                
-## <div  align="center">My name is Alessandro Cídney, and I use GitHub to share my projects</div>
+## <div  align="center">My name is Alessandro Cídney and I use GitHub to share my projects</div>
 <br/>
 
 <p padding=20>:books: I like to study and I always try to learn about new tecnologies and programming languages</p>
