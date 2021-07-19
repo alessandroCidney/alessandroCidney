@@ -5,8 +5,8 @@
 ## <div  align="center">My name is Alessandro Cídney and I use GitHub to share my projects</div>
 <br/>
 
-<p padding=20>:books: I like to study and I always try to learn about new tecnologies and programming languages</p>
-<p>:earth_americas: I hope to be able to contribute to the development of several projects here.</p>
+### <p padding=20>:books: I like to study and I always try to learn about new tecnologies and programming languages</p>
+### <p>:earth_americas: I hope to be able to contribute to the development of several projects here.</p>
 
 <br/>
 
