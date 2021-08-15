@@ -6,7 +6,6 @@
 <br/>
 
 ### <p padding=20>:books: I like to study and I always try to learn about new tecnologies and programming languages</p>
-### <p>:earth_americas: I hope to be able to contribute to the development of several projects here.</p>
 
 <br/>
 
@@ -14,7 +13,7 @@
 <br/>
 
 <div align="center">
-<a href="https://github.com/alessandroCidney"><img src="https://github-readme-stats.vercel.app/api?username=alessandroCidney&count_private=true" height="190" /></a> <a href="https://github.com/alessandroCidney"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroCidney&langs_count=8&hide=html,css&layout=compact" height="190" /></a>
+<a href="https://github.com/alessandroCidney"><img src="https://github-readme-stats.vercel.app/api?username=alessandroCidney&count_private=true&theme=tokyonight" height="210" /></a> <a href="https://github.com/alessandroCidney"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroCidney&langs_count=10&hide=html,css&layout=compact&theme=tokyonight" height="210" /></a>
 </div>
 
 <br/>
