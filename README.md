@@ -17,7 +17,7 @@
 </div>
 <br />
 <div align="center">
-<a href="https://github.com/alessandroCidney"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroCidney&langs_count=9&hide=html,css&layout=compact&theme=tokyonight" width='70%' /></a>
+<a href="https://github.com/alessandroCidney"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroCidney&langs_count=10&hide=html,css&layout=compact&theme=tokyonight" width='70%' /></a>
 </div>
 
 <br/>
