@@ -1,11 +1,6 @@
-# <div align="center">Welcome to my profile! :boy: :computer:</div>
+# <div align="center">Welcome to my profile! :computer:</div>
 
-<img src="https://github.com/alessandroCidney/alessandroCidney/blob/main/Fundo%20README.md.gif" />
-                                                                                               
-## <div  align="center">My name is Alessandro Cídney and I use GitHub to share my projects</div>
-<br/>
-
-### <p padding=20>:books: I like to study and I always try to learn about new tecnologies and programming languages</p>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alessandroCidney&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
