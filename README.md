@@ -1,7 +1,5 @@
 # <div align="center">Welcome to my profile! :computer:</div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alessandroCidney&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <br/>
 
 ## <div  align="center">GitHub Stats</div>
