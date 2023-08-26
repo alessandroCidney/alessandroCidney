@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  Feel free to contribute and send suggestions about applications in the profile.
+  Feel free to contribute and send suggestions about the applications of the profile.
 </p>
 
 <p>
