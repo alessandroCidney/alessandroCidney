@@ -16,10 +16,6 @@
   Feel free to contribute and send suggestions about the applications of the profile.
 </p>
 
-<p>
-  Contact e-mail: cidney.alessandro@gmail.com
-</p>
-
 <br/>
 
 <div>
