@@ -1,12 +1,5 @@
 # Hi! My name is Alessandro Cídney :wave:
 
-<img
-  align="right"
-  width='300px'
-  src="https://raw.githubusercontent.com/alessandroCidney/alessandroCidney/main/background1.png"
-  alt="Profile background image"
-/>
-
 <p>
   Welcome to my Github profile! Here I display some of my personal projects. 
   You will find projects that use languages and technologies such as JavaScript, TypeScript, React.js, Vue.js, Angular, Node.js, React Native, HTML, CSS, etc.
