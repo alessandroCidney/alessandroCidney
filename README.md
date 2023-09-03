@@ -1,17 +1,16 @@
-# Hi! My name is Alessandro Cídney :wave:
+# <div align="center">Hi! I'm Alessandro Cídney :wave:</div>
 
-<p>
-  Welcome to my Github profile! Here I display some of my personal projects. 
-  You will find projects that use languages and technologies such as JavaScript, TypeScript, React.js, Vue.js, Angular, Node.js, React Native, HTML, CSS, etc.
+<p align="center">
+  Welcome to my Github profile! Here I show some of my personal projects.
 </p>
 
-<p>
-  Feel free to contribute and send suggestions about the applications of the profile.
+<p align="center">
+  Feel free to contribute and send suggestions about the applications of the repositories.
 </p>
 
 <br/>
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/acidn/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
@@ -23,7 +22,7 @@
 
 <br />
 
-<div>
+<div align="center">
   <a href="https://github.com/alessandroCidney">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroCidney&langs_count=10&hide=html,css&layout=compact&theme=tokyonight"
