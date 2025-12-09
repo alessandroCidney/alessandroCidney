@@ -2,6 +2,8 @@
 
 A front-end developer from Brazil with over 3 years of experience.
 
+![Illustration with the text "Front-end Developer"](./assets/images/tinified-banner.jpg)
+
 ## My Favorite Technologies
 
 ### Front-end
@@ -56,7 +58,7 @@ The back-end area is not my main focus, but I have in-depth knowledge of some re
 ![Node.js](https://img.shields.io/badge/Node.JS-%236DA35E.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23FFFFFF)
 ![Express](https://img.shields.io/badge/Express-%23FFFFFF.svg?style=for-the-badge&logoColor=%23000000)
 
-## Social Media
+## Social media and other links
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A63BC.svg?style=for-the-badge&logoColor=%23FFFFFF)](https://www.linkedin.com/in/acidn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231F10D7.svg?style=for-the-badge&logoColor=%23FFFFFF)](https://www.linksdoale.com.br)
 [![Medium](https://img.shields.io/badge/medium-%23FFFFFF.svg?style=for-the-badge)](https://acidn.medium.com)
