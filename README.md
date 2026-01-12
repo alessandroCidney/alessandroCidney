@@ -62,4 +62,3 @@ The back-end area is not my main focus, but I have in-depth knowledge of some re
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A63BC.svg?style=for-the-badge&logoColor=%23FFFFFF)](https://www.linkedin.com/in/acidn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231F10D7.svg?style=for-the-badge&logoColor=%23FFFFFF)](https://www.linksdoale.com.br)
 [![Medium](https://img.shields.io/badge/medium-%23FFFFFF.svg?style=for-the-badge)](https://acidn.medium.com)
-[![Instagram](https://img.shields.io/badge/instagram-%23F60080.svg?style=for-the-badge&logo=instagram&logoColor=%23FFFFFF)](https://instagram.com/a_cidn)
