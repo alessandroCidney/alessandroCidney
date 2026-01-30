@@ -1,6 +1,6 @@
 # Hi! I'm Alessandro Cídney :wave:
 
-A front-end developer from Brazil with over 3 years of experience.
+A developer from Brazil with over 3 years of experience.
 
 ![Illustration with the text "Front-end Developer"](./assets/images/tinified-banner.jpg)
 
@@ -16,6 +16,10 @@ A front-end developer from Brazil with over 3 years of experience.
 ![HTML5](https://img.shields.io/badge/html5-%23DC4D25.svg?style=for-the-badge&logo=html5&logoColor=%23FFFFFF)
 ![CSS3](https://img.shields.io/badge/css3-%23254BDD.svg?style=for-the-badge&logo=css&logoColor=%23FFFFFF)
 ![Sass](https://img.shields.io/badge/sass-%23C76494.svg?style=for-the-badge&logo=sass&logoColor=%23FFFFFF)
+
+### Back-end
+![Node.js](https://img.shields.io/badge/Node.JS-%236DA35E.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23FFFFFF)
+![Express](https://img.shields.io/badge/Express-%23FFFFFF.svg?style=for-the-badge&logoColor=%23000000)
 
 ### Web
 ![APIs RESTful](https://img.shields.io/badge/APIs%20RESTful-%235A6DCB.svg?style=for-the-badge&logoColor=%23FFFFFF)
@@ -52,11 +56,6 @@ A front-end developer from Brazil with over 3 years of experience.
 ![Scrum](https://img.shields.io/badge/Scrum-%23F1F1F1.svg?style=for-the-badge&logoColor=%23000000)
 ![Kanban](https://img.shields.io/badge/Kanban-%23F18906.svg?style=for-the-badge&logoColor=%23000000)
 ![Jira](https://img.shields.io/badge/Jira-%232580F7.svg?style=for-the-badge&logo=jira&logoColor=%23FFFFFF)
-
-### Back-end
-The back-end area is not my main focus, but I have in-depth knowledge of some related technologies: <br><br>
-![Node.js](https://img.shields.io/badge/Node.JS-%236DA35E.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23FFFFFF)
-![Express](https://img.shields.io/badge/Express-%23FFFFFF.svg?style=for-the-badge&logoColor=%23000000)
 
 ## Social media and other links
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A63BC.svg?style=for-the-badge&logoColor=%23FFFFFF)](https://www.linkedin.com/in/acidn)
