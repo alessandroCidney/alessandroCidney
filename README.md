@@ -2,7 +2,7 @@
 
 A developer from Brazil with over 3 years of experience.
 
-![Illustration with the text "Front-end Developer"](./assets/images/tinified-banner.jpg)
+![Illustration with the text "Full Stack Developer"](./assets/images/tinified-banner.jpg)
 
 ## My Favorite Technologies
 
@@ -20,6 +20,8 @@ A developer from Brazil with over 3 years of experience.
 ### Back-end
 ![Node.js](https://img.shields.io/badge/Node.JS-%236DA35E.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23FFFFFF)
 ![Express](https://img.shields.io/badge/Express-%23FFFFFF.svg?style=for-the-badge&logoColor=%23000000)
+![Python](https://img.shields.io/badge/python-%23407EAF?style=for-the-badge&logo=python&logoColor=%23ffffff)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009485?style=for-the-badge&logo=fastapi&logoColor=%23ffffff)
 
 ### Web
 ![APIs RESTful](https://img.shields.io/badge/APIs%20RESTful-%235A6DCB.svg?style=for-the-badge&logoColor=%23FFFFFF)
